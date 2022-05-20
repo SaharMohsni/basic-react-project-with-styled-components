@@ -1,0 +1,8 @@
+.opened-side-bar {
+  width: 100%;
+  height: calc(100vh - 120px);
+}
+
+.closed-side-bar{
+    padding:4% 0 0 4%;
+}

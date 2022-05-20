@@ -8,4 +8,4 @@ export const defaultResidualTime = {
 
 export const countdownTimestampMs = 1690003662000;
 
-export const sideBarInitialState = true
+export const sideBarInitialState = false

@@ -1,5 +1,4 @@
 import React from "react";
-import { FlexHCenterVCenterStyled } from "../../../components/styles/FlexStyled";
 import { FooterStyled } from "../../../components/styles/Footer.styled";
 import "./footer.css"
 

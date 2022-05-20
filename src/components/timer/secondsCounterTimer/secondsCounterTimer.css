@@ -1,4 +1,6 @@
-
+.seconds-counter-timer{
+ padding: 0 4%;
+}
 
 .countdown-timer span {
     margin-left: 5px;

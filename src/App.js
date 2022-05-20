@@ -1,6 +1,9 @@
 import React from 'react';
-import './App.css';
 import MainPage from './pages/MainPage';
+
+import "./assets/globalCss.css";
+
+
 function App() {
   return (
     <div className="App">

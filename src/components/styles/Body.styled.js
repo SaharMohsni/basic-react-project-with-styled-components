@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
-export const BodyStyled = styled.div`
+export const BodyHeightStyled = styled.div`
   height: calc(100vh - 120px);
+ 
 `;
-
-
