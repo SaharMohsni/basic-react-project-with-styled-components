@@ -14,4 +14,5 @@ export const CountdownTimerStyled = styled.div`
 export const CountdownTimerElementStyled = styled.span`
   margin-left: 5px;
   margin-right: 5px;
+  width: 2ch;
 `;
