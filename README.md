@@ -5,6 +5,7 @@
 A single page application presenting a countdow timer that decrease each second. the time left is showen in the topBar.
 
 There is a sideBar toggled by a button and a footer.
+
 This project is built with React, Javascript, styled components, and css.
 
 
@@ -42,5 +43,6 @@ Because i needed to deliver the project i didn't concentrate on the UI so there 
 
 
 At the end of the project, the technologies implemented was `javascript`, `React`, `styled components`, and `CSS`. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes.
+
 
 
