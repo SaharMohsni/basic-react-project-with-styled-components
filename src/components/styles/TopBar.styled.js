@@ -5,6 +5,6 @@ export const TopBarStyled = styled.div`
   height: 70px;
   background-color: rgb(201, 220, 255);
   display:flex;
-  justify-content:flex-end;
+  justify-content:center;
   align-items:center;
 `;
