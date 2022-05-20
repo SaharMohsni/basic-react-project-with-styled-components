@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const SideBar = ({ remainingTime }) => {
+const SideBar = () => {
   return (
    <div>SideBar</div>
   );
