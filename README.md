@@ -42,7 +42,7 @@ I started this process by using the `create-react-app` boilerplate, and then oth
 Because i needed to deliver the project i didn't concentrate on the UI so there is a basic css. I will considered improving the UI is a future feature that can be added.
 
 
-At the end of the project, the technologies implemented was `javascript`, `React`, `styled components`, and `CSS`. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes.
+At the end of the project, the technologies implemented was `javascript`, `React`, `styled components`, and `CSS`. I choosed to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes.
 
 
 
