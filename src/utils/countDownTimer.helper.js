@@ -1,6 +1,6 @@
 
 import dayjs from 'dayjs';
-import { padWithZeros } from './timeFormatter.helper copy';
+import { padWithZeros } from './timeFormatter.helper';
 
 
 // Get residual seconds
