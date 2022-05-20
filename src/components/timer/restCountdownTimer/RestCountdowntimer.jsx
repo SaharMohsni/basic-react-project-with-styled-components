@@ -1,5 +1,4 @@
 import React from "react";
-import "./restCountdowntimer.css"
 
 
 const RestCountdowntimer = ({ remainingTime }) => {
