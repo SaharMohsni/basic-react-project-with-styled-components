@@ -1,6 +1,14 @@
+.side-bar {
+      height: calc(100vh - 120px);
+       
+}
+.opened{
+width:40%;
+}
 .opened-side-bar {
   width: 100%;
-  height: calc(100vh - 120px);
+  height: 100%;
+
 }
 
 .closed-side-bar{

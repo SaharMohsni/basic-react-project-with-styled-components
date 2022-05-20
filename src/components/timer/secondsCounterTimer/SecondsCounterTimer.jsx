@@ -5,7 +5,7 @@ import "./secondsCounterTimer.css";
 
 const SecondsCounterTimer = ({ secondsremainingTime }) => {
   return (
-    <div className="countdown-timer seconds-counter-timer">
+    <div className="countdown-timer seconds-counter-timer flex-h-center-v-Center ">
       <CountdownTimerElementStyled>
         <div className="flex-h-center-v-Center">
           <span className="countdown-timer__element">

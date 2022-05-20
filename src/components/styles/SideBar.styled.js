@@ -1,9 +1,5 @@
 import styled from "styled-components";
 
-export const SideBarStyled = styled.div`
-  height: calc(100vh - 120px);
-  width:40%;
-`;
 
 export const OpenedSideBarStyled = styled.div`
   border: solid 1px gray;

@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { SideBarStyled } from "../../../components/styles/SideBar.styled";
 import { sideBarInitialState } from "../../../utils/constants";
 import { SideBarButton } from "../IconsComponents";
 import OpenedSideBar from "./OpenedSideBar";
@@ -12,7 +11,7 @@ const SideBar = () => {
   const openSideBar = () => setIsOpenSideBar(true);
   const closeSideBar = () => setIsOpenSideBar(false);
   return (
-    <SideBarStyled>
+    <div className={`${isOpenSideBar ? "opened" : "closed"} side-bar`}>
       {!isOpenSideBar ? (
         <div onClick={openSideBar} className="closed-side-bar">
           <SideBarButton />
@@ -22,7 +21,7 @@ const SideBar = () => {
           <OpenedSideBar closeSideBar={closeSideBar} />
         </div>
       )}
-    </SideBarStyled>
+    </div>
   );
 };
 
