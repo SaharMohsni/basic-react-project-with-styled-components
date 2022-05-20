@@ -25,7 +25,7 @@ const MainPage = () => {
 
   return (
     <div className="main-page">
-      <TopBar />
+      <TopBar remainingTime ={remainingTime}/>
       <BodyStyled>
         <FlexVCenterStyled>
           {isOpenSideBar && <div>sideBar</div>}
